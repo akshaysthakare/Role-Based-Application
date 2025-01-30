@@ -28,7 +28,7 @@ Example:- "http://localhost:5000/api/tasks/679b297b324f165f24b20f67"
 http://localhost:5000/api/tasks/:id
 
 # Roles According To the Users
-  Admin: create, update, delete, view,
-  Creator: create, view,
-  Producer: update, view,
-  Tester: view
+  1) Admin: create, update, delete, view
+  2) Creator: create, view
+  3) Producer: update, view
+  4) Tester: view
